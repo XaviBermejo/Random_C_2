@@ -1,13 +1,1 @@
-# Calculator
-# Calculator
-# Calculator
-# Calculator
-# Calculator
-# Calculator
-# Trigger
-# Trigger
-# Trigger
-# ProvaTrigger
-# Random_C_2
-# Random_C_2
 # Random_C_2
